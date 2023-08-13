@@ -40,7 +40,7 @@
 
 ### Preprocessing
 
-Before performing fingerprint enhancement, the texture image needs to be extracted using [Total Variation]([https://gitlab.com/ksip/total_variation](https://www.mathworks.com/matlabcentral/fileexchange/43600-deconvtv-fast-algorithm-for-total-variation-deconvolution)). Note use `mu` is 0.45. Ensure you have completed this step before proceeding with the enhancement process.
+Before performing fingerprint enhancement, the texture image needs to be extracted using [Total Variation](https://www.mathworks.com/matlabcentral/fileexchange/43600-deconvtv-fast-algorithm-for-total-variation-deconvolution). Note use `mu` is 0.45. Ensure you have completed this step before proceeding with the enhancement process.
 
 
 ### Enhancement
