@@ -1,8 +1,5 @@
 # <div align="center"> PCF: A Progressive and Corrective Feedback for Latent Fingerprint Enhancement </div>
 
-```
-The installation and executable files will be made available once the paper is accepted 
-```
 
 ## <div align="center">Requirements</div>
  
@@ -20,13 +17,13 @@ The installation and executable files will be made available once the paper is a
 
 ### Install MATLAB Runtime version R2022a (9.12)
 
-1. Download MATLAB Runtime from [www.mathworks.com](https://www.mathworks.com/products/compiler/matlab-runtime.html) Or MATLAB_Runtime_R2022a_Update_6_win64.zip <b>(Coming soon)</b>.
+1. Download MATLAB Runtime from [www.mathworks.com](https://www.mathworks.com/products/compiler/matlab-runtime.html) Or [MATLAB_Runtime_R2022a_Update_6_win64.zip](https://drive.google.com/file/d/1UGLNieWDnR3yDj5UOEOA-MRmD9vIVjfA/view?usp=sharing)</b>.
 
 2. Extract files and install MATLAB Runtime using `setup.exe`.
 
 ### Install KSIP Latent Fingerprint Enhancement
 
-1. Download ksip_lfp_enh_installer.exe <b>(Coming soon)</b>.
+1. Download [ksip_lfp_enh_installer.exe](https://drive.google.com/file/d/1XMiQDv1-4gyGhQQmsdIZbsQh8z3kMkMS/view?usp=sharing)</b>.
 
 2. Install `KSIP LFP ENHANCEMENT` using `ksip_lfp_enh_installer.exe`. The installation directory will be `C:\Program Files (x86)\KSIP LFP ENHANCEMENT`
 
