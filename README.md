@@ -119,4 +119,4 @@ Or
 
 ## <div align="center">Contact</div>
 
-If you have any questions or need assistance, reach us at kttpl@hotmail.com / kittipol.h@ku.th / supakit.kr@gmail.com.
+If you have any questions or need assistance, reach us at fengvpa@ku.ac.th / kttpl@hotmail.com / kittipol.h@ku.th.
