@@ -62,9 +62,9 @@ Before performing fingerprint enhancement, the texture image needs to be extract
 	
 ### Example
 
-<b> Run NIST SD27 Enhancement </b>
+- Run NIST SD27 Enhancement
 
-    ksip_pcf.exe D:\NIST_SD27\Latent D:\NIST_SD27\LatentTV D:\NIST_SD27\GlobalDict  D:\NIST_SD27\Enhancement
+		ksip_pcf.exe D:\NIST_SD27\Latent D:\NIST_SD27\LatentTV D:\NIST_SD27\GlobalDict  D:\NIST_SD27\Enhancement
 
 ### Output Example
 
