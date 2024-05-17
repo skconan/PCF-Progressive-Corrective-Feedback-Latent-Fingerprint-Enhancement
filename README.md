@@ -2,7 +2,8 @@
 
 We understand the importance of transparency and reproducibility in research. To ensure a user-friendly experience, we are sharing the executable file. However, variations in environments can cause differences in results. Therefore, we also provide the results of NIST SD27, NIST SD302, IIITD MOLF, and IIITD MSLFD on [https://skconan.github.io/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration](https://skconan.github.io/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration/).
 
-## <div align="center">Requirements</div>
+
+## <div align="left">Requirements</div>
  
 - Windows 10 or 11 operating system.
 
@@ -14,7 +15,7 @@ We understand the importance of transparency and reproducibility in research. To
 
 <br/>
 
-## <div align="center">Installation</div>
+## <div align="left">Installation</div>
 
 ### Install MATLAB Runtime version R2022a (9.12)
 
@@ -37,7 +38,7 @@ We understand the importance of transparency and reproducibility in research. To
 
 <br/>
 
-## <div align="center">Usage</div>
+## <div align="left">Usage</div>
 
 ### Preprocessing
 
@@ -78,21 +79,21 @@ Before performing fingerprint enhancement, the texture image needs to be extract
 
 <br/>
 
-## <div align="center"> Acknowledgements </div>
+## <div align="left"> Acknowledgements </div>
 
 This work was supported in part by the Department of Electrical Engineering, Faculty of Engineering, Kasetsart University, and in part by the Siew-Sngiem Karnchanachari Research Leadership and Young Professorship Awards.
 
 <br/>
 
 
-## <div align="center">License</div>
+## <div align="left">License</div>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <br/>
 
 
-## <div align="center">Citing PCF</div>
+## <div align="left">Citing PCF</div>
 
 If you are using PCF or benchmarks in your research, kindly reference the following.
 
@@ -115,6 +116,6 @@ Or
 
 <br/>
 
-## <div align="center">Contact</div>
+## <div align="left">Contact</div>
 
 If you have any questions or need assistance, reach us at fengvpa@ku.ac.th / kttpl@hotmail.com / kittipol.h@ku.th.
